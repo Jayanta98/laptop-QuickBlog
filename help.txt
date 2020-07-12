@@ -2,3 +2,5 @@ This is the quickest way to create the blog
 1.Use https://tailwindcss.com/
 2.use https://mertjf.github.io/tailblocks/
 3.use https://unsplash.com/ for image
+
+By jayanta Ghosh
